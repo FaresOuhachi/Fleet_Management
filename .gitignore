@@ -1,0 +1,9 @@
+/Backend/.env
+/Backend/node_modules/
+/Backend/id_rsa_priv.pem
+/Backend/.git
+/Backend/.idea
+/Frontend/.git
+/Frontend/node_modules
+/Frontend/.idea
+/.git
